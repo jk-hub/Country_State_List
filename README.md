@@ -1,2 +1,2 @@
-# Country_State_List
+# Country State List
 Generic country state list with details 
